@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Jaebin's%20GitHub%20🌠&animation=twinkling&fontSize=35&fontAlignY=35&fontAlign=50&height=160)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=반가워요👋;I'm+Ak-mong;)](https://git.io/typing-svg)
 ```
 - 💻 현재 코딩, 특히 모바일 기술을 공부중이에요.
@@ -55,12 +54,16 @@
 - **우경정보기술** (2022.03 ~ 2023.09)  
    → 공공데이터인턴, 사진 데이터 라벨링 수행
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=akmong9)](https://solved.ac/akmong9)
+<div align="center">
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=akmong9)](https://solved.ac/akmong9)
+
+</div>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Ak-mong&show_icons=true&theme=tokyonight&hide_border=true" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak-mong&theme=tokyonight&hide_border=true" height="200" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ak-mong&theme=react-dark" />
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ak-mong&theme=tokyonight&hide_border=true" height="200" /> -->
+<!--     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ak-mong&theme=react-dark" /> -->
 </div>
 <!--
 **Ak-mong/Ak-mong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
